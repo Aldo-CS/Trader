@@ -3,3 +3,6 @@ djangorestframework>=3.4.3
 pytz
 tox
 flake8
+django-googledrive-storage
+google-auth-oauthlib
+google-api-python-client
